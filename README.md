@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsh1154)](https://solved.ac/lsh1154/)
+
+### Computing
+![R](https://img.shields.io/badge/R-#276DC3.svg?&style=for-the-badge&logo=R&logoColor=White)
